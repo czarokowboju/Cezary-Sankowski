@@ -1,0 +1,9 @@
+
+#include <stdio.h> //standard input output
+
+int main() // rozpoczecie glownej czesci skryptu
+{
+    printf("Starogard Gdański (niem. Preußisch Stargard; do 1950 Starogard) – miasto w województwie pomorskim, siedziba powiatu starogardzkiego oraz gminy wiejskiej Starogard Gdański. Miasto leży nad rzeką Wierzycą na Pojezierzu Starogardzkim, należy do nadwiślańsko-pomorskiego regionu Kociewie, jest także jednym z najstarszych miast na Pomorzu.");
+// print sluzy jako bezposrednie zapisanie wpisu po uruchomieniu programu
+    return 0;
+}
